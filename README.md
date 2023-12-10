@@ -12,5 +12,5 @@
     </div>
 </header>
 
-[![Blog]{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}]{https://www.linkedin.com/in/ismael-de-jesus-veloso-179818279/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app}
-[![Blog]{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}]{https://www.linkedin.com/in/ismael-de-jesus-veloso-179818279/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app}
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-de-jesus-veloso-179818279/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/ismael-de-jesus-veloso-179818279/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
